@@ -3,7 +3,7 @@
 
 /**
  * binary_tree_delete - a function that deletes a tree
- * @binary_tree_t *tree: the tree to be deleted
+ * @tree: the tree to be deleted
  * Return: NULL on success
  */
 
